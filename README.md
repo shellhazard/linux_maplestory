@@ -1,6 +1,6 @@
 # linux_maplestory
 
-Run MapleStory on Linux under GE-Proton11-1 using Nix. This is a reproducible stopgap until the necessary patches are upstreamed to Proton.
+Run MapleStory on Linux under GE-Proton11-1 using Nix. This is a reproducible stopgap until the necessary patches are upstreamed to Proton, the progress of which [is tracked upstream here](https://github.com/oldschoola/linux_maplestory#upstream-fixes-in-progress---the-path-to-just-works).
 
 ## Prerequisites
 
@@ -43,4 +43,4 @@ This will:
 
 ## Contributions
 
-- Aside from the README and the patches sourced from upstream, this repository was entirely authored by GLM 5.2 and is not intended for human consumption. Please file an issue if you're running into problems.
+- Aside from the README, this repository (including the upstream) was entirely authored by GLM 5.2 and is not intended for human consumption. Please file an issue if you're running into problems.
